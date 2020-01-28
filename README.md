@@ -12,8 +12,6 @@
 
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltonlazzarin/boticario-ecommerce-webpage">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/boticario-ecommerce-webpage">
-
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/boticario-ecommerce-webpage">
 
   <img src="https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e" alt="Styled-Components">
