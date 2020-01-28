@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="https://github.com/eltonlazzarin/boticario-ecommerce-webpage/blob/master/screenshots/cosmetics.svg" height="50px" width="50px" src="Logo" />
+  <img src="https://github.com/eltonlazzarin/boticario-ecommerce-webpage/blob/master/screenshots/cosmetics.svg" alt="Logo" height="50px" width="50px" />
   <br>
   O Boticário E-commerce Webpage Challenge
 </h1>
