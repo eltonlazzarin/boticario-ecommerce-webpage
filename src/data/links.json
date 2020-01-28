@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Perfurmaria",
+    "navLink": "http://localhost:3000"
+  },
+  {
+    "name": "Maquiagem",
+    "navLink": "http://localhost:3000"
+  },
+  {
+    "name": "Cabelos",
+    "navLink": "http://localhost:3000"
+  },
+  {
+    "name": "Infantil",
+    "navLink": "http://localhost:3000"
+  }
+]
