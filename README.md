@@ -10,6 +10,8 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/boticario-ecommerce-webpage">
 
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eltonlazzarin/boticario-ecommerce-webpage">
+
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltonlazzarin/boticario-ecommerce-webpage">
 
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/boticario-ecommerce-webpage">
